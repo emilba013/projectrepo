@@ -1,5 +1,5 @@
 FROM nginx
 
-COPY index.html /var/www/html/index.html
+#COPY index.html /var/www/html/index.html
 
-EXPOSE 80
+#EXPOSE 80:80
